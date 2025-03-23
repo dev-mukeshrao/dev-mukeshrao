@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-mukeshrao
-- 👀 I’m interested in Angular JS
-- 🌱 I’m currently learning Angular JS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in React(nextjs)
+- 🌱 I’m currently learning React
+- 💞️ Techstack: Nodejs, Nestjs, Expressjs (Typescript and Javascript) and React
 - 📫 How to reach me dev.mukesh.rao@gmail.com
 
 <!---
